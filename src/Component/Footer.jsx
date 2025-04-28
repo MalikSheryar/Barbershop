@@ -21,6 +21,21 @@ export default function Footer() {
             Follow us:
             </p>
         </div>
+        <div className="para">
+            <p className="font-[Inter] text-white text-center">
+            Follow us:
+            </p>
+        </div>
+        <div className="para">
+            <p className="font-[Inter] text-white text-center">
+            Follow us:
+            </p>
+        </div>
+        <div className="para">
+            <p className="font-[Inter] text-white text-center">
+            Follow us:
+            </p>
+        </div>
         <div className="img cursor-pointer">
             <img src={img40} alt="" />
             </div>
